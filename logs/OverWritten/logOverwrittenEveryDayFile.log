@@ -1,0 +1,133 @@
+INFO 2022-08-24 15-19-57 ListMethods:25 - 3
+INFO 2022-08-24 15-19-57 ListMethods:26 - [1, sdfjsdflkjsd, roiutiou]
+
+DEBUG 2022-08-24 15-19-57 ListMethods:34 - Strings value which starts the later s
+INFO 2022-08-24 15-19-57 ListMethods:37 - sdfjsdflkjsd
+DEBUG 2022-08-24 15-20-54 ListMethods:22 - Please enter value and press Enter
+DEBUG 2022-08-24 15-20-54 ListMethods:23 - If you type 'break' you will see all the previously entered values.
+and
+Strings value starts which the later s
+and
+Strings value with length more then 5
+INFO 2022-08-24 15-21-04 ListMethods:31 - 3
+INFO 2022-08-24 15-21-04 ListMethods:32 - [1, sddds, 123]
+
+DEBUG 2022-08-24 15-21-04 ListMethods:40 - Strings value which starts the later s
+INFO 2022-08-24 15-21-04 ListMethods:43 - sddds
+DEBUG 2022-08-24 15-21-56 ListMethods:22 - Please enter value and press Enter
+DEBUG 2022-08-24 15-21-56 ListMethods:23 - If you type 'break' you will see all the previously entered values.
+and
+Strings value starts which the later s
+and
+Strings value with length more then 5
+INFO 2022-08-24 15-21-56 ListMethods:30 - Please, enter next value
+INFO 2022-08-24 15-22-01 ListMethods:30 - Please, enter next value
+INFO 2022-08-24 15-22-06 ListMethods:30 - Please, enter next value
+INFO 2022-08-24 15-22-10 ListMethods:30 - Please, enter next value
+DEBUG 2022-08-24 15-22-35 ListMethods:22 - Please enter value and press Enter
+DEBUG 2022-08-24 15-22-35 ListMethods:23 - If you type 'break' you will see all the previously entered values.
+and
+Strings value starts which the later s
+and
+Strings value with length more then 5
+DEBUG 2022-08-24 15-23-13 ListMethods:22 - Please enter value and press Enter
+DEBUG 2022-08-24 15-23-13 ListMethods:23 - If you type 'break' you will see all the previously entered values.
+and
+Strings value starts which the later s
+and
+Strings value with length more then 5
+INFO 2022-08-24 15-23-25 ListMethods:31 - 2
+INFO 2022-08-24 15-23-25 ListMethods:32 - [23, sss]
+INFO 2022-08-24 15-23-25 ListMethods:33 - You type 'break' value, look at your result
+
+DEBUG 2022-08-24 15-23-25 ListMethods:41 - Strings value which starts the later s
+INFO 2022-08-24 15-23-25 ListMethods:44 - sss
+DEBUG 2022-08-24 15-31-57 ListMethods:22 - Please enter value and press Enter
+DEBUG 2022-08-24 15-31-57 ListMethods:23 - If you type 'break' you will see all the previously entered values.
+and
+Strings value starts which the later s
+and
+Strings value with length more then 5
+DEBUG 2022-08-24 15-32-29 ListMethods:22 - Please enter value and press Enter
+DEBUG 2022-08-24 15-32-29 ListMethods:23 - If you type 'break' you will see all the previously entered values.
+and
+Strings value starts which the later s
+and
+Strings value with length more then 5
+DEBUG 2022-08-24 15-33-40 ListMethods:22 - Please enter value and press Enter
+DEBUG 2022-08-24 15-33-40 ListMethods:23 - If you type 'break' you will see all the previously entered values.
+and
+Strings value starts which the later s
+and
+Strings value with length more then 5
+INFO 2022-08-24 15-33-53 ListMethods:31 - 2
+INFO 2022-08-24 15-33-53 ListMethods:32 - [123, sdfsdfsdf]
+INFO 2022-08-24 15-33-53 ListMethods:33 - You type 'break' value, look at your result
+
+DEBUG 2022-08-24 15-33-53 ListMethods:41 - Strings value which starts the later s
+INFO 2022-08-24 15-33-53 ListMethods:44 - sdfsdfsdf
+DEBUG 2022-08-24 15-33-53 ListMethods:50 - 
+Strings value with length more then 5
+INFO 2022-08-24 15-33-53 ListMethods:53 - sdfsdfsdf
+DEBUG 2022-08-24 15-34-24 ListMethods:22 - Please enter value and press Enter
+DEBUG 2022-08-24 15-34-24 ListMethods:23 - If you type 'break' you will see all the previously entered values.
+and
+Strings value starts which the later s
+and
+Strings value with length more then 5
+INFO 2022-08-24 15-34-34 ListMethods:31 - 2
+INFO 2022-08-24 15-34-34 ListMethods:32 - [111, test]
+INFO 2022-08-24 15-34-34 ListMethods:33 - You type 'break' value, look at your result
+
+DEBUG 2022-08-24 15-34-34 ListMethods:41 - Strings value which starts the later s
+DEBUG 2022-08-24 15-34-34 ListMethods:50 - 
+Strings value with length more then 5
+DEBUG 2022-08-24 15-34-48 ListMethods:22 - Please enter value and press Enter
+DEBUG 2022-08-24 15-34-48 ListMethods:23 - If you type 'break' you will see all the previously entered values.
+and
+Strings value starts which the later s
+and
+Strings value with length more then 5
+INFO 2022-08-24 17-56-22 HWItemC:27 - {Persons{age=30, firstNameValue='Person2 Name', secondNameValue='0'}=[Account{name='2', id='Account2', id='null'}], Persons{age=25, firstNameValue='Person1 Name', secondNameValue='0'}=[Account{name='1', id='Account1', id='null'}, Account{name='25', id='Person1 Name', id='null'}]}
+INFO 2022-08-24 17-56-22 HWItemC:28 - Add account
+INFO 2022-08-24 17-56-22 HWItemC:32 - Persons{age=30, firstNameValue='Person2 Name', secondNameValue='0'}
+INFO 2022-08-24 17-56-22 HWItemC:33 - {Persons{age=30, firstNameValue='Person2 Name', secondNameValue='0'}=[Account{name='2', id='Account2', id='null'}], Persons{age=25, firstNameValue='Person1 Name', secondNameValue='0'}=[Account{name='1', id='Account1', id='null'}, Account{name='25', id='Person1 Name', id='null'}]}
+INFO 2022-08-24 17-56-22 HWItemC:37 - {Persons{age=30, firstNameValue='Person2 Name', secondNameValue='0'}=[Account{name='2', id='Account2', id='null'}], Persons{age=25, firstNameValue='Person1 Name', secondNameValue='0'}=[Account{name='1', id='Account1', id='null'}, Account{name='25', id='Person1 Name', id='null'}]}
+INFO 2022-08-24 17-56-22 HWItemC:38 - Persons{age=35, firstNameValue='Person3 Name', secondNameValue='0'}
+DEBUG 2022-08-24 17-56-22 HWItemC:40 - {Persons{age=30, firstNameValue='Person2 Name', secondNameValue='0'}=[Account{name='2', id='Account2', id='null'}], Persons{age=25, firstNameValue='Person1 Name', secondNameValue='0'}=[Account{name='1', id='Account1', id='null'}, Account{name='25', id='Person1 Name', id='null'}]}
+INFO 2022-08-24 17-59-09 HWItemC:24 - Start Add account
+INFO 2022-08-24 17-59-09 HWItemC:27 - {Persons{age=30, firstNameValue='Person2 Name', secondNameValue='0'}=[Account{name='2', id='Account2', id='null'}], Persons{age=25, firstNameValue='Person1 Name', secondNameValue='0'}=[Account{name='1', id='Account1', id='null'}, Account{name='25', id='Person1 Name', id='null'}]}
+INFO 2022-08-24 17-59-09 HWItemC:28 - End Add account
+
+INFO 2022-08-24 17-59-09 HWItemC:30 - Start remove person
+INFO 2022-08-24 17-59-09 HWItemC:33 - Persons{age=30, firstNameValue='Person2 Name', secondNameValue='0'}
+INFO 2022-08-24 17-59-09 HWItemC:34 - {Persons{age=30, firstNameValue='Person2 Name', secondNameValue='0'}=[Account{name='2', id='Account2', id='null'}], Persons{age=25, firstNameValue='Person1 Name', secondNameValue='0'}=[Account{name='1', id='Account1', id='null'}, Account{name='25', id='Person1 Name', id='null'}]}
+INFO 2022-08-24 17-59-09 HWItemC:35 - End remove person
+
+INFO 2022-08-24 17-59-09 HWItemC:38 - Start remove account
+INFO 2022-08-24 17-59-09 HWItemC:40 - {Persons{age=30, firstNameValue='Person2 Name', secondNameValue='0'}=[Account{name='2', id='Account2', id='null'}], Persons{age=25, firstNameValue='Person1 Name', secondNameValue='0'}=[Account{name='1', id='Account1', id='null'}, Account{name='25', id='Person1 Name', id='null'}]}
+INFO 2022-08-24 17-59-09 HWItemC:41 - Persons{age=35, firstNameValue='Person3 Name', secondNameValue='0'}
+INFO 2022-08-24 17-59-09 HWItemC:42 - End remove account
+
+INFO 2022-08-24 17-59-09 HWItemC:44 - Start Output map
+DEBUG 2022-08-24 17-59-09 HWItemC:45 - {Persons{age=30, firstNameValue='Person2 Name', secondNameValue='0'}=[Account{name='2', id='Account2', id='null'}], Persons{age=25, firstNameValue='Person1 Name', secondNameValue='0'}=[Account{name='1', id='Account1', id='null'}, Account{name='25', id='Person1 Name', id='null'}]}
+INFO 2022-08-24 17-59-09 HWItemC:46 - End Output map
+
+INFO 2022-08-24 18-00-23 HWItemC:24 - Start Add account
+DEBUG 2022-08-24 18-00-23 HWItemC:27 - {Persons{age=30, firstNameValue='Person2 Name', secondNameValue='0'}=[Account{name='2', id='Account2', id='null'}], Persons{age=25, firstNameValue='Person1 Name', secondNameValue='0'}=[Account{name='1', id='Account1', id='null'}, Account{name='25', id='Person1 Name', id='null'}]}
+INFO 2022-08-24 18-00-23 HWItemC:28 - End Add account
+
+INFO 2022-08-24 18-00-23 HWItemC:30 - Start remove person
+DEBUG 2022-08-24 18-00-23 HWItemC:33 - Persons{age=30, firstNameValue='Person2 Name', secondNameValue='0'}
+DEBUG 2022-08-24 18-00-23 HWItemC:34 - {Persons{age=30, firstNameValue='Person2 Name', secondNameValue='0'}=[Account{name='2', id='Account2', id='null'}], Persons{age=25, firstNameValue='Person1 Name', secondNameValue='0'}=[Account{name='1', id='Account1', id='null'}, Account{name='25', id='Person1 Name', id='null'}]}
+INFO 2022-08-24 18-00-23 HWItemC:35 - End remove person
+
+INFO 2022-08-24 18-00-23 HWItemC:38 - Start remove account
+DEBUG 2022-08-24 18-00-23 HWItemC:40 - {Persons{age=30, firstNameValue='Person2 Name', secondNameValue='0'}=[Account{name='2', id='Account2', id='null'}], Persons{age=25, firstNameValue='Person1 Name', secondNameValue='0'}=[Account{name='1', id='Account1', id='null'}, Account{name='25', id='Person1 Name', id='null'}]}
+DEBUG 2022-08-24 18-00-23 HWItemC:41 - Persons{age=35, firstNameValue='Person3 Name', secondNameValue='0'}
+INFO 2022-08-24 18-00-23 HWItemC:42 - End remove account
+
+INFO 2022-08-24 18-00-23 HWItemC:44 - Start Output map
+DEBUG 2022-08-24 18-00-23 HWItemC:45 - {Persons{age=30, firstNameValue='Person2 Name', secondNameValue='0'}=[Account{name='2', id='Account2', id='null'}], Persons{age=25, firstNameValue='Person1 Name', secondNameValue='0'}=[Account{name='1', id='Account1', id='null'}, Account{name='25', id='Person1 Name', id='null'}]}
+INFO 2022-08-24 18-00-23 HWItemC:46 - End Output map
+

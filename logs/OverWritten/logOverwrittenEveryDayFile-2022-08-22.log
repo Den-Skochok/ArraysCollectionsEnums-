@@ -1,0 +1,103 @@
+DEBUG 2022-08-22 09-11-19 TaskA:26 - Please enter value and press Enter
+DEBUG 2022-08-22 09-11-19 TaskA:27 - If you type 'break' you will see all the previously entered values.
+and
+Strings value starts which the later s
+and
+Strings value with length more then 5
+INFO 2022-08-22 09-11-19 TaskA:35 - Please, enter next value
+INFO 2022-08-22 09-11-19 TaskA:35 - Please, enter next value
+DEBUG 2022-08-22 09-13-59 TaskA:26 - Please enter value and press Enter
+DEBUG 2022-08-22 09-13-59 TaskA:27 - If you type 'break' you will see all the previously entered values.
+and
+Strings value starts which the later s
+and
+Strings value with length more then 5
+INFO 2022-08-22 09-14-04 TaskA:35 - Please, enter next value
+INFO 2022-08-22 09-14-05 TaskA:35 - Please, enter next value
+INFO 2022-08-22 09-14-07 TaskA:35 - Please, enter next value
+INFO 2022-08-22 09-14-08 TaskA:35 - Please, enter next value
+INFO 2022-08-22 09-14-10 TaskA:35 - Please, enter next value
+INFO 2022-08-22 09-14-12 TaskA:35 - Please, enter next value
+INFO 2022-08-22 09-14-12 TaskA:37 - 6
+INFO 2022-08-22 09-14-12 TaskA:38 - [111, dsfsdsd, ssss, sdfsdfsdf, 434534, break]
+INFO 2022-08-22 09-14-12 TaskA:39 - You type 'break' value, look at your result
+
+DEBUG 2022-08-22 09-14-12 TaskA:45 - Strings value which starts the later s
+INFO 2022-08-22 09-14-12 TaskA:48 - ssss
+INFO 2022-08-22 09-14-12 TaskA:48 - sdfsdfsdf
+DEBUG 2022-08-22 09-14-12 TaskA:53 - 
+Strings value with length more then 5
+INFO 2022-08-22 09-14-12 TaskA:56 - dsfsdsd
+INFO 2022-08-22 09-14-12 TaskA:56 - sdfsdfsdf
+INFO 2022-08-22 09-14-12 TaskA:56 - 434534
+DEBUG 2022-08-22 09-21-38 TaskA:26 - Please enter value and press Enter
+DEBUG 2022-08-22 09-21-38 TaskA:27 - If you type 'break' you will see all the previously entered values.
+and
+Strings value starts which the later s
+and
+Strings value with length more then 5
+DEBUG 2022-08-22 09-21-46 TaskA:54 - Strings value which starts the later s
+DEBUG 2022-08-22 09-21-46 TaskA:62 - 
+Strings value with length more then 5
+DEBUG 2022-08-22 09-22-11 TaskA:26 - Please enter value and press Enter
+DEBUG 2022-08-22 09-22-11 TaskA:27 - If you type 'break' you will see all the previously entered values.
+and
+Strings value starts which the later s
+and
+Strings value with length more then 5
+DEBUG 2022-08-22 09-22-13 TaskA:54 - Strings value which starts the later s
+INFO 2022-08-22 09-22-13 TaskA:57 - sdfsdf
+DEBUG 2022-08-22 09-22-13 TaskA:62 - 
+Strings value with length more then 5
+INFO 2022-08-22 09-22-13 TaskA:65 - sdfsdf
+DEBUG 2022-08-22 09-25-02 TaskA:26 - Please enter value and press Enter
+DEBUG 2022-08-22 09-25-02 TaskA:27 - If you type 'break' you will see all the previously entered values.
+and
+Strings value starts which the later s
+and
+Strings value with length more then 5
+INFO 2022-08-22 09-25-26 TaskA:48 - 6
+INFO 2022-08-22 09-25-26 TaskA:49 - [break, dgdkflghdf, sfgdfgdf, sss, 13134, 432]
+INFO 2022-08-22 09-25-26 TaskA:50 - You type 'break' value, look at your result
+
+DEBUG 2022-08-22 09-25-26 TaskA:56 - Strings value which starts the later s
+INFO 2022-08-22 09-25-26 TaskA:59 - sfgdfgdf
+INFO 2022-08-22 09-25-26 TaskA:59 - sss
+DEBUG 2022-08-22 09-25-26 TaskA:64 - 
+Strings value with length more then 5
+INFO 2022-08-22 09-25-26 TaskA:67 - dgdkflghdf
+INFO 2022-08-22 09-25-26 TaskA:67 - sfgdfgdf
+DEBUG 2022-08-22 11-43-11 TaskA:26 - Please enter value and press Enter
+DEBUG 2022-08-22 11-43-11 TaskA:27 - If you type 'break' you will see all the previously entered values.
+and
+Strings value starts which the later s
+and
+Strings value with length more then 5
+INFO 2022-08-22 11-43-24 TaskA:35 - Please, enter next value
+INFO 2022-08-22 11-43-25 TaskA:35 - Please, enter next value
+INFO 2022-08-22 11-43-32 TaskA:35 - Please, enter next value
+INFO 2022-08-22 11-43-33 TaskA:35 - Please, enter next value
+INFO 2022-08-22 11-43-39 TaskA:35 - Please, enter next value
+INFO 2022-08-22 11-44-09 TaskA:35 - Please, enter next value
+INFO 2022-08-22 11-44-09 TaskA:37 - 6
+INFO 2022-08-22 11-44-09 TaskA:38 - [1, іва, sfg, sss, 1234567, break]
+INFO 2022-08-22 11-44-09 TaskA:39 - You type 'break' value, look at your result
+
+DEBUG 2022-08-22 11-44-09 TaskA:56 - Strings value which starts the later s
+INFO 2022-08-22 11-44-09 TaskA:59 - sfg
+INFO 2022-08-22 11-44-09 TaskA:59 - sss
+DEBUG 2022-08-22 11-44-09 TaskA:64 - 
+Strings value with length more then 5
+INFO 2022-08-22 11-44-09 TaskA:67 - 1234567
+INFO 2022-08-22 11-57-30 ListMethods:25 - 1
+INFO 2022-08-22 11-57-32 ListMethods:26 - [break]
+
+INFO 2022-08-22 12-03-07 ListMethods:25 - 9
+INFO 2022-08-22 12-03-07 ListMethods:26 - [12, 234124, sdfsdfkjshd, dslfhsdfkjhsdfjkh, adsfkjjhsdfkjh, sldkfksdlkh, kjkj, ', break]
+
+INFO 2022-08-22 12-10-29 ListMethods:25 - 4
+INFO 2022-08-22 12-10-29 ListMethods:26 - [1213, 123, 123, 3123]
+
+INFO 2022-08-22 14-41-45 ListMethods:25 - 2
+INFO 2022-08-22 14-41-45 ListMethods:26 - [1, 213]
+
